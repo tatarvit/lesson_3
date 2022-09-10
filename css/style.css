@@ -1,0 +1,33 @@
+h1 {
+	color: rgb(17, 87, 24);
+}
+
+.text {
+	color: rgb(238, 146, 8);
+}
+
+#red {
+	color: rgb(161, 4, 4);
+}
+
+div.text {
+	color: rgb(14, 82, 230);
+}
+
+.text.lesson {
+	color: rgb(104, 1, 31);
+} 
+div p mark {
+	color: rgb(34, 7, 237);
+}
+
+div .lesson {
+	color: rgb(230, 55, 11);
+}
+.text1 > p {
+	color: rgb(26, 1, 120);
+}
+
+.text2 + p {
+	color: rgb(241, 7, 183);
+}
